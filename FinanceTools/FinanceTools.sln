@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceTools", "FinanceTools\FinanceTools.csproj", "{58EEAE66-4EE2-4D5D-BF0C-687FAA509356}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FT.UI", "FinanceTools\FT.UI.csproj", "{58EEAE66-4EE2-4D5D-BF0C-687FAA509356}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FT.Operation", "FT.Operation\FT.Operation.csproj", "{B94CA044-4F03-444B-A7C2-158650C6F471}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{58EEAE66-4EE2-4D5D-BF0C-687FAA509356}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58EEAE66-4EE2-4D5D-BF0C-687FAA509356}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58EEAE66-4EE2-4D5D-BF0C-687FAA509356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B94CA044-4F03-444B-A7C2-158650C6F471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B94CA044-4F03-444B-A7C2-158650C6F471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B94CA044-4F03-444B-A7C2-158650C6F471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B94CA044-4F03-444B-A7C2-158650C6F471}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
